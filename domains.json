@@ -1,0 +1,57 @@
+[{
+  "domain": "nsw2u.tk",
+  "blocked_by": ["telekom"],
+  "created": "15.06.2021"
+}, {
+  "domain": "nsw2u.org",
+  "blocked_by": ["telekom", "vodafone"],
+  "created": "15.06.2021"
+}, {
+  "domain": "nsw2u.com",
+  "blocked_by": ["telekom"],
+  "created": "31.05.2021"
+}, {
+  "domain": "serien.link",
+  "blocked_by": ["telekom"],
+  "created": "29.05.2021"
+}, {
+  "domain": "uu.canna.to",
+  "blocked_by": ["telekom"],
+  "created": "10.05.2021"
+}, {
+  "domain": "serien.pro",
+  "blocked_by": ["telekom"],
+  "created": "28.04.2021"
+}, {
+  "domain": "serien.me",
+  "blocked_by": ["telekom"],
+  "created": "25.04.2021"
+}, {
+  "domain": "serien.ac",
+  "blocked_by": ["telekom"],
+  "created": "20.04.2021"
+}, {
+  "domain": "canna.to",
+  "blocked_by": ["telekom"],
+  "created": "14.04.2021"
+}, {
+  "domain": "serien.vc",
+  "blocked_by": ["telekom"],
+  "created": "11.04.2021"
+}, {
+  "domain": "serien.sx",
+  "blocked_by": ["telekom"],
+  "created": "30.03.2021"
+}, {
+  "domain": "serienstream.to",
+  "blocked_by": ["telekom"],
+  "created": "30.03.2021"
+}, {
+  "domain": "serienstream.sx",
+  "blocked_by": ["telekom"],
+  "created": "30.03.2021"
+}, {
+  "domain": "s.to",
+  "blocked_by": ["telekom"],
+  "created": "30.03.2021"
+}]
